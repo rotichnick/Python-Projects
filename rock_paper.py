@@ -20,7 +20,8 @@ def Rock_Paper_Scissors(my_list=['r','p','s']):
             won=True
             return
             # break
-
+#Nice game
+#A rock paper scissors game
 Rock_Paper_Scissors()
 play_again=input("Play again? y/n").lower()
 if play_again=='y':
